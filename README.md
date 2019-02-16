@@ -23,6 +23,7 @@ Links:
 * https://groups.google.com/d/msg/mechanical-sympathy/lflljWsKw0M/ubROHyvTDAAJ
 * https://bugs.openjdk.java.net/browse/JDK-8215634
 * http://thinkrelevance.com/blog/2013/06/04/clojure-workflow-reloaded
+* https://dev.clojure.org/jira/browse/CLJ-2484
 
 ## Repro
 
