@@ -1,4 +1,4 @@
-== Background
+## Background
 
 The recent releases of Java 8u201/8u202 and 11.0.2 include a fix for a 0-day
 vulnerability that could occur while running a class static initializer.
@@ -24,7 +24,7 @@ Links:
 * https://bugs.openjdk.java.net/browse/JDK-8215634
 * http://thinkrelevance.com/blog/2013/06/04/clojure-workflow-reloaded
 
-== Repro
+## Repro
 
 This repo includes a simple case reproducing the issue. foo.clj measures
 the time to do some meaningless busy work. You can run this as a
@@ -39,6 +39,8 @@ Or you can run it by loading it in user.clj by adding the `:user` alias:
 ```
 $ clj -A:user
 ```
+
+## Timings
 
 The timings were collected on a 2018 Macbook Pro, but this issue is not
 OS or architecture dependent.
