@@ -24,6 +24,7 @@ Links:
 * https://bugs.openjdk.java.net/browse/JDK-8215634
 * http://thinkrelevance.com/blog/2013/06/04/clojure-workflow-reloaded
 * https://dev.clojure.org/jira/browse/CLJ-2484
+* http://bugs.java.com/bugdatabase/view_bug.do?bug_id=JDK-8219233 - a bug filed for this issue
 
 ## Repro
 
